@@ -8,6 +8,6 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Jupyter Notebook
-.ipynb_checkpoints
+**/.ipynb_checkpoints
 
 
